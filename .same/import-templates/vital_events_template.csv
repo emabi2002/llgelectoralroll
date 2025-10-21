@@ -1,0 +1,4 @@
+event_type,event_date,person_nid,ward_code,village_name,notes,recorded_by
+BIRTH,2024-01-15,NID-123456789,RAB-URB-W01,Matupit,Born at Nonga Hospital,Ward Recorder John
+DEATH,2024-02-20,NID-987654321,KOK-URB-W01,Takubar,Natural causes,Ward Recorder Mary
+BIRTH,2024-03-10,NID-555555555,WEW-URB-W01,Kreer,Born at home,Ward Recorder Peter

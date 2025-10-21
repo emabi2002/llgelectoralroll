@@ -1,0 +1,5 @@
+household_code,survey_date,water_source,sanitation,lighting,income_sources,num_males,num_females,notes
+MAT-001,2024-01-15,Tap water,Flush toilet,Electricity,Fishing,2,2,Well-maintained
+MAT-002,2024-01-15,Well,Pit latrine,Solar,Agriculture,1,2,Needs improvement
+RAL-001,2024-01-16,Tap water,Flush toilet,Electricity,Wage employment,3,2,Good infrastructure
+TAK-001,2024-01-20,Tap water,Flush toilet,Electricity,Business,2,3,Urban household

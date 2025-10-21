@@ -1,0 +1,4 @@
+given_names,surname,other_names,sex,date_of_birth,nid_number,civil_status,occupation,ward_code,village_name
+John,Doe,James,M,1990-01-15,NID-123456789,MARRIED,Farmer,RAB-URB-W01,Matupit
+Mary,Smith,,F,1985-05-20,NID-987654321,SINGLE,Teacher,KOK-URB-W01,Takubar
+Peter,Johnson,Paul,M,2000-12-10,NID-555555555,SINGLE,Student,WEW-URB-W01,Kreer
